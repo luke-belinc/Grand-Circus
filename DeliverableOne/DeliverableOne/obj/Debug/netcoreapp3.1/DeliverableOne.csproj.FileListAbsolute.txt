@@ -1,0 +1,13 @@
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/bin/Debug/netcoreapp3.1/DeliverableOne.deps.json
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/bin/Debug/netcoreapp3.1/DeliverableOne.runtimeconfig.json
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/bin/Debug/netcoreapp3.1/DeliverableOne.runtimeconfig.dev.json
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/bin/Debug/netcoreapp3.1/DeliverableOne.dll
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/bin/Debug/netcoreapp3.1/DeliverableOne.pdb
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.csproj.AssemblyReference.cache
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.AssemblyInfoInputs.cache
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.AssemblyInfo.cs
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.csproj.CoreCompileInputs.cache
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.dll
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.pdb
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/obj/Debug/netcoreapp3.1/DeliverableTwo.csproj.AssemblyReference.cache
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/obj/Debug/netcoreapp3.1/DeliverableTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/obj/Debug/netcoreapp3.1/DeliverableTwo.AssemblyInfoInputs.cache
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/obj/Debug/netcoreapp3.1/DeliverableTwo.AssemblyInfo.cs
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/obj/Debug/netcoreapp3.1/DeliverableTwo.csproj.CoreCompileInputs.cache
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/bin/Debug/netcoreapp3.1/DeliverableTwo.deps.json
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/bin/Debug/netcoreapp3.1/DeliverableTwo.runtimeconfig.json
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/bin/Debug/netcoreapp3.1/DeliverableTwo.runtimeconfig.dev.json
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/bin/Debug/netcoreapp3.1/DeliverableTwo.dll
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/bin/Debug/netcoreapp3.1/DeliverableTwo.pdb
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/obj/Debug/netcoreapp3.1/DeliverableTwo.dll
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/obj/Debug/netcoreapp3.1/DeliverableTwo.pdb
+/Users/luke/OneDrive - Wayne State University/Grand Circus/prework/DeliverableTwo/DeliverableTwo/obj/Debug/netcoreapp3.1/DeliverableTwo.genruntimeconfig.cache
